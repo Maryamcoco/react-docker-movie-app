@@ -68,7 +68,9 @@ App runs on 👉 http://localhost:5173
 
 ### 📸 Demo Screenshot
 Example running locally: 
-[moviepulse screenshot](https://github.com/Maryamcoco/react-docker-movie-app/blob/main/Screenshot%202025-08-25%20172242.png)
+
+![moviepulse screenshot](https://github.com/Maryamcoco/react-docker-movie-app/blob/main/Screenshot%202025-08-25%20172242.png)
+
 ---
 ### 🎯 What I Learned
 - How to containerize a React (Vite) frontend application.
@@ -91,11 +93,12 @@ Example running locally:
 ### 👨‍💻 About Me
 I’m a Junior DevOps Engineer passionate about building scalable systems and cloud-native applications.
 This project is part of my DevOps Portfolio, where I demonstrate my ability to apply real-world tools and concepts.
+
 ---
 ### 🔗 Connect with me:
 
 _ [LinkedIn](https://www.linkedin.com/in/maryam-temitope-2a3428373/)
-
 ---
-### 📸 Demo video
+### 📸 Demo video 
+view raw cause git can't show large files now.
 [Moviepulse video](https://github.com/Maryamcoco/react-docker-movie-app/blob/main/vite%20in%20browser%20video%20.mp4)
